@@ -365,6 +365,18 @@
   )
 
   (symbol_instances
+    (path "/ff60da9d-fe92-4759-b91e-bcaff4d8cbf3/4527f044-2daf-485b-b819-36ca805762b3/b43c1a24-cc10-4353-b6d8-e5b5bb696014"
+      (reference "#FLG0101") (unit 1) (value "PWR_FLAG") (footprint "")
+    )
+    (path "/ff60da9d-fe92-4759-b91e-bcaff4d8cbf3/2fcadadb-cf12-48e1-bc94-79ddc336a35a/b43c1a24-cc10-4353-b6d8-e5b5bb696014"
+      (reference "#FLG0102") (unit 1) (value "PWR_FLAG") (footprint "")
+    )
+    (path "/ff60da9d-fe92-4759-b91e-bcaff4d8cbf3/e33bfa0c-1610-4b4a-a9b3-53bc411573a1/b43c1a24-cc10-4353-b6d8-e5b5bb696014"
+      (reference "#FLG0103") (unit 1) (value "PWR_FLAG") (footprint "")
+    )
+    (path "/ff60da9d-fe92-4759-b91e-bcaff4d8cbf3/8f9eb8fb-a7e6-455c-b83f-2da0b27d6aa2/b43c1a24-cc10-4353-b6d8-e5b5bb696014"
+      (reference "#FLG0104") (unit 1) (value "PWR_FLAG") (footprint "")
+    )
     (path "/4d24f783-afb0-42a0-9683-e8b59325e024"
       (reference "#PWR01") (unit 1) (value "+3.3V") (footprint "")
     )
