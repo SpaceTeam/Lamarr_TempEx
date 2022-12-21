@@ -120,12 +120,17 @@
       },
       "track_widths": [
         0.0,
-        0.3
+        0.3,
+        0.4
       ],
       "via_dimensions": [
         {
           "diameter": 0.0,
           "drill": 0.0
+        },
+        {
+          "diameter": 0.8,
+          "drill": 0.4
         }
       ],
       "zones_allow_external_fillets": true,
@@ -138,7 +143,9 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [],
+    "erc_exclusions": [
+      "lib_symbol_issues|1795780|970280|4bbb3fce-d952-494b-8d3b-6b14476b2b3e|00000000-0000-0000-0000-000000000000"
+    ],
     "meta": {
       "version": 0
     },
