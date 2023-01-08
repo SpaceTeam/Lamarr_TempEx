@@ -1,4 +1,0 @@
-MC: https://www.analog.com/en/products/max31865.html
-MC Datasheet: https://www.analog.com/media/en/technical-documentation/data-sheets/max31865.pdf
-RTD (PT100): https://www.mouser.at/ProductDetail/Heraeus-Nexensos/32208519?qs=e8QHdpnGig%252BAixHN6f1IJg%3D%3D
-RTD Datasheet: https://www.mouser.at/datasheet/2/619/C_416_e-1919926.pdf

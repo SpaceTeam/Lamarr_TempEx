@@ -1,4 +1,0 @@
-(sym_lib_table
-  (lib (name "TXV_Library_Symbols")(type "KiCad")(uri "${KIPRJMOD}/TXV_Library_PCB/TXV_Library_PCB/TXV_Library_Symbols.kicad_sym")(options " pwr_sym_only")(descr ""))
-  (lib (name "MAX31865AAP_T")(type "KiCad")(uri "C:/Users/natha/OneDrive/Desktop/TUST/Lamarr/TempEx/Lamarr_TempEx/TXV_Library_PCB/MAX31865AAP_T.kicad_sym")(options " pwr_sym_only")(descr "")(disabled))
-)
